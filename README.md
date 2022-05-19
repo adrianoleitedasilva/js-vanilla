@@ -31,8 +31,8 @@
 
 # Roadmap
 - [x] - Projeto 01 - Validador de Formulário
-- [ ] - Projeto 02 - Reserva de Lugares
-- [ ] - Projeto 03 - VideoPlayer Customizado
+- [x] - Projeto 02 - Reserva de Lugares
+- [x] - Projeto 03 - VideoPlayer Customizado
 - [ ] - Projeto 04 - Conversor de Moedas
 - [ ] - Projeto 05 - Controlador de Métodos
 
@@ -40,4 +40,5 @@
 
 - [00 - Validador](https://adrianoleitedasilva.github.io/js-vanilla/00_validador/)
 - [01 - Reserva Lugares](https://adrianoleitedasilva.github.io/js-vanilla/01_reserva_lugares/)
+- [02 - VideoPlayer Customizado](https://adrianoleitedasilva.github.io/js-vanilla/02_videoplayer/)
 
