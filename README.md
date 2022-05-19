@@ -34,7 +34,7 @@
 - [x] - Projeto 02 - Reserva de Lugares
 - [x] - Projeto 03 - VideoPlayer Customizado
 - [x] - Projeto 04 - Conversor de Moedas
-- [ ] - Projeto 05 - Controlador de Métodos
+- [x] - Projeto 05 - Controlador de Métodos
 
 # Projetos
 
@@ -42,4 +42,5 @@
 - [01 - Reserva Lugares](https://adrianoleitedasilva.github.io/js-vanilla/01_reserva_lugares/)
 - [02 - VideoPlayer Customizado](https://adrianoleitedasilva.github.io/js-vanilla/02_videoplayer/)
 - [03 - Conversor Moedas](https://adrianoleitedasilva.github.io/js-vanilla/03_conversor_moedas/)
+- [04 - Controlador](https://adrianoleitedasilva.github.io/js-vanilla/04_controlador/)
 
