@@ -43,4 +43,5 @@
 - [02 - VideoPlayer Customizado](https://adrianoleitedasilva.github.io/js-vanilla/02_videoplayer/)
 - [03 - Conversor Moedas](https://adrianoleitedasilva.github.io/js-vanilla/03_conversor_moedas/)
 - [04 - Controlador](https://adrianoleitedasilva.github.io/js-vanilla/04_controlador/)
+- [05 - Menu Modal](https://adrianoleitedasilva.github.io/js-vanilla/05_menu/)
 
