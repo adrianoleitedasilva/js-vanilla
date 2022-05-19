@@ -39,4 +39,5 @@
 # Projetos
 
 - [00 - Validador](https://adrianoleitedasilva.github.io/js-vanilla/00_validador/)
+- [01 - Reserva Lugares](https://adrianoleitedasilva.github.io/js-vanilla/01_reserva_lugares/)
 
