@@ -2,6 +2,8 @@
 ![ShielddoProjeto](https://img.shields.io/badge/Projeto-JS_Vanilla-b52e31.svg?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/badge/Versão-1.0.0-e9ebec.svg?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/badge/Linguagem-JavaScript-f7df1e.svg?style=for-the-badge)
+![ShielddoProjeto](https://img.shields.io/badge/Markup-HTML-e34f26.svg?style=for-the-badge)
+![ShielddoProjeto](https://img.shields.io/badge/Estilo-CSS-002561.svg?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/github/repo-size/adrianoleitedasilva/js-vanilla?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/tokei/lines/github/adrianoleitedasilva/js-vanilla?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/github/stars/adrianoleitedasilva/js-vanilla?style=for-the-badge) 
@@ -13,6 +15,7 @@
 - [Descrição](#descrição)
 - [Tecnologias Envolvidas](#tecnologias-envolvidas)
 - [Roadmap](#roadmap)
+- [Projetos](#projetos)
   
 # Descrição
 
@@ -27,9 +30,13 @@
 - CSS3 para estilizar tudo.
 
 # Roadmap
-- [x] Criação do Template Inicial de todos os projetos
-- [ ] Projeto 01 - Validador de Formulário
-- [ ] Projeto 02 - Reserva de Lugares
-- [ ] Projeto 03 - VideoPlayer Customizado
-- [ ] Projeto 04 - Conversor de Moedas
-- [ ] Projeto 05 - Controlador de Métodos
+- [x] - Projeto 01 - Validador de Formulário
+- [ ] - Projeto 02 - Reserva de Lugares
+- [ ] - Projeto 03 - VideoPlayer Customizado
+- [ ] - Projeto 04 - Conversor de Moedas
+- [ ] - Projeto 05 - Controlador de Métodos
+
+# Projetos
+
+- [00 - Validador](https://adrianoleitedasilva.github.io/js-vanilla/00_validador/)
+
