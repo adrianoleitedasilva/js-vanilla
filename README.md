@@ -64,4 +64,5 @@
 - [Player](https://adrianoleitedasilva.github.io/js-vanilla/09_player/)
 - [Scroll Infinito](https://adrianoleitedasilva.github.io/js-vanilla/10_scroll_infinito/)
 - [Game Digitação](https://adrianoleitedasilva.github.io/js-vanilla/11_game_digitacao/)
+- [Leitor de Texto por Voz](https://adrianoleitedasilva.github.io/js-vanilla/12_leitor/)
 
