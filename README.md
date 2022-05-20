@@ -42,6 +42,14 @@
 - [x] - Projeto 10 - Player de Música
 - [x] - Projeto 11 - Scroll Infinito
 - [x] - Projeto 12 - Game Digitação
+- [x] - Projeto 13 - Leitor de Texto por Voz
+- [ ] - Projeto 14 - Cartões de anotações
+- [ ] - Projeto 15 - Busca Músicas
+- [ ] - Projeto 16 - Relaxador
+- [ ] - Projeto 17 - Game Quebra Blocos
+- [ ] - Projeto 18 - Contador para o Ano Novo
+- [ ] - Projeto 19 - Lista Pessoas Ricas
+- [ ] - Projeto 20 - Advinhar Número
 # Projetos
 
 - [Validador](https://adrianoleitedasilva.github.io/js-vanilla/00_validador/)
