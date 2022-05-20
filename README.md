@@ -35,13 +35,25 @@
 - [x] - Projeto 03 - VideoPlayer Customizado
 - [x] - Projeto 04 - Conversor de Moedas
 - [x] - Projeto 05 - Controlador de Métodos
-
+- [x] - Projeto 06 - Menu
+- [x] - Projeto 07 - Forca
+- [x] - Projeto 08 - Receitas
+- [x] - Projeto 09 - Finanças
+- [x] - Projeto 10 - Player de Música
+- [x] - Projeto 11 - Scroll Infinito
+- [x] - Projeto 12 - Game Digitação
 # Projetos
 
-- [00 - Validador](https://adrianoleitedasilva.github.io/js-vanilla/00_validador/)
-- [01 - Reserva Lugares](https://adrianoleitedasilva.github.io/js-vanilla/01_reserva_lugares/)
-- [02 - VideoPlayer Customizado](https://adrianoleitedasilva.github.io/js-vanilla/02_videoplayer/)
-- [03 - Conversor Moedas](https://adrianoleitedasilva.github.io/js-vanilla/03_conversor_moedas/)
-- [04 - Controlador](https://adrianoleitedasilva.github.io/js-vanilla/04_controlador/)
-- [05 - Menu Modal](https://adrianoleitedasilva.github.io/js-vanilla/05_menu/)
+- [Validador](https://adrianoleitedasilva.github.io/js-vanilla/00_validador/)
+- [Reserva Lugares](https://adrianoleitedasilva.github.io/js-vanilla/01_reserva_lugares/)
+- [VideoPlayer Customizado](https://adrianoleitedasilva.github.io/js-vanilla/02_videoplayer/)
+- [Conversor Moedas](https://adrianoleitedasilva.github.io/js-vanilla/03_conversor_moedas/)
+- [Controlador](https://adrianoleitedasilva.github.io/js-vanilla/04_controlador/)
+- [Menu Modal](https://adrianoleitedasilva.github.io/js-vanilla/05_menu/)
+- [Forca](https://adrianoleitedasilva.github.io/js-vanilla/06_forca/)
+- [Receitas](https://adrianoleitedasilva.github.io/js-vanilla/07_receitas/)
+- [Finanças](https://adrianoleitedasilva.github.io/js-vanilla/08_financas/)
+- [Player](https://adrianoleitedasilva.github.io/js-vanilla/09_player/)
+- [Scroll Infinito](https://adrianoleitedasilva.github.io/js-vanilla/10_scroll_infinito/)
+- [Game Digitação](https://adrianoleitedasilva.github.io/js-vanilla/11_game_digitacao/)
 
